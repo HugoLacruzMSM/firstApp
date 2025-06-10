@@ -1,0 +1,24 @@
+.results {
+  display: flex;
+  flex-direction: row;
+  margin-top: 50px;
+  justify-content: space-around;
+}
+
+input[type="text"] {
+  border: solid 1px cornflowerblue;
+  padding: 10px;
+  border-radius: 8px;
+  margin-right: 4px;
+  display: inline-block;
+  width: 30%;
+}
+
+button {
+  padding: 10px;
+  border: solid 1px cornflowerblue;
+  background: cornflowerblue;
+  color: black;
+  border-radius: 8px;
+}
+
