@@ -12,9 +12,6 @@
   margin-bottom: 15px;
 }
 
-.listing-location::before {
-  content: url('/assets/location-pin.svg') / '';
-}
 
 .listing-location {
   font-size: 24pt;
@@ -22,7 +19,7 @@
 }
 
 .listing-features > .section-heading {
-  color: var(--secondary-color);
+  color: blueviolet;
   font-size: 24pt;
   margin-bottom: 15px;
 }
@@ -49,7 +46,7 @@ label, input {
 }
 
 label {
-  color: var(--secondary-color);
+  color: blueviolet;
   font-weight: bold;
   text-transform: uppercase;
   font-size: 12pt;
